@@ -1,0 +1,19 @@
+{
+  "name": "webCrawler",
+  "version": "0.0.0",
+  "description": "webCrawler in JavaScript",
+  "main": "crawler.js",
+  "author": "Shubhangi",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.19.0",
+    "connect-redis": "^3.1.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "lodash": "^4.17.2",
+    "request": "^2.65.0",
+    "url-parse": "^1.0.5"
+  }
+}
